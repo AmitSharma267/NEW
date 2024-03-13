@@ -1,0 +1,106 @@
+(base) amitsharma@Amits-MacBook-Pro /Volumes % dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+zsh: permission denied: dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3
+usage: scp [-346ABCOpqRrsTv] [-c cipher] [-D sftp_server_path] [-F ssh_config]
+           [-i identity_file] [-J destination] [-l limit]
+           [-o ssh_option] [-P port] [-S program] source ... target
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+scp: local "/Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3" is not a regular file
+scp: failed to upload file /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 to /home/sharma267
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+SS3_S143_L008_R1_001.fastq.gz                                                                        100% 1008MB   6.3MB/s   02:40    
+SS62_S144_L008_R2_001.fastq.gz                                                                       100% 1406MB   4.0MB/s   05:50    
+multiqc_report.html                                                                                  100% 1310KB   4.3MB/s   00:00    
+SS111_S145_L008_R2_001.fastq.gz                                                                      100% 1119MB   8.3MB/s   02:15    
+SS111_S145_L008_R1_001.fastq.gz                                                                       29%  320MB   2.8MB/s - stalled -client_loop: send disconnect: Broken pipe
+lost connection
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+scp: stat local "/Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3": No such file or directory
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+scp: stat local "/Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3": No such file or directory
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+scp: stat local "/Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3": No such file or directory
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+scp: stat local "/Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3": No such file or directory
+(base) amitsharma@Amits-MacBook-Pro /Volumes % ls
+Macintosh HD
+(base) amitsharma@Amits-MacBook-Pro /Volumes % ls/
+zsh: no such file or directory: ls/
+(base) amitsharma@Amits-MacBook-Pro /Volumes % ls./
+zsh: no such file or directory: ls./
+(base) amitsharma@Amits-MacBook-Pro /Volumes % scp -r /Volumes/dlsmith26/UWBC-Dropbox/Bioinformatics_Resource_Center/M005403/20231211_LH00283_0053_B22G3HYLT3 sharma267@ap2002.chtc.wisc.edu:/home/sharma267
+(sharma267@ap2002.chtc.wisc.edu) Password: 
+(sharma267@ap2002.chtc.wisc.edu) Duo two-factor login for sharma267
+
+Enter a passcode or select one of the following options:
+
+ 1. Duo Push to XXX-XXX-2052
+
+Passcode or option (1-1): 1
+Success. Logging you in...
+SS3_S143_L008_R1_001.fastq.gz                                                                        100% 1008MB   7.8MB/s   02:08    
+SS62_S144_L008_R2_001.fastq.gz                                                                       100% 1406MB   7.7MB/s   03:02    
+multiqc_report.html                                                                                  100% 1310KB   6.0MB/s   00:00    
+SS111_S145_L008_R2_001.fastq.gz                                                                      100% 1119MB   7.9MB/s   02:21    
+SS111_S145_L008_R1_001.fastq.gz                                                                      100% 1094MB   8.0MB/s   02:16    
+SS3_S143_L008_R2_001.fastq.gz                                                                        100% 1038MB   7.8MB/s   02:13    
+SS62_S144_L008_R1_001.fastq.gz                                                                       100% 1391MB   8.1MB/s   02:52    
+M005403_smithd_md5sum.txt                                                                            100%  384    38.0KB/s   00:00    
+(base) amitsharma@Amits-MacBook-Pro /Volumes % log
+usage:
